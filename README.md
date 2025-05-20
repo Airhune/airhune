@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena)
 <!--
 **Airhune/airhune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
