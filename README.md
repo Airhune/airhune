@@ -7,7 +7,7 @@
 </a> 
 
 <h3 align="center">
-  <samp>&gt; Hello World!, I'm <b>Nuria</b></samp>
+  <samp>&gt; Hello World! I'm <b>Nuria</b></samp>
 </h3>
 
 <p> <samp>A Full-Stack Developer based in <strong>Barcelona</strong>, Spain that works at <strong><a href="https://100x100.net" target="_blank">100x100NET</a></strong>.</samp></p>
