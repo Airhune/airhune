@@ -29,5 +29,5 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-<p> <samp>Yoy can reach me at:</samp></p>
+<p> <samp>You can reach me at:</samp></p>
 <a href="https://www.linkedin.com/in/nuriagomezpiedrafita/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
